@@ -41,9 +41,7 @@ This project presents an interactive Tableau dashboard for analyzing Walmart sal
 
 ## Tableau Public Dashboard
 
-<a href="https://public.tableau.com/app/profile/vankayalapati.manogna/viz/Walmartdataanalysis_16853678923730/Dashboard1" target="_blank">
-View Interactive Dashboard
-</a>
+[![Walmart Dashboard](https://img.shields.io/badge/Walmart-Sales%20%26%20Profit%20Dashboard-0071CE?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vankayalapati.manogna/viz/Walmartdataanalysis_16853678923730/Dashboard1)
 
 ---
 
